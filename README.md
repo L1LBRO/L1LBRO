@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 About Me
 
-<!--
-**L1LBRO/L1LBRO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Certified Cybersecurity Expert & Ethical Hacker (Zubiri Manteo)** with a solid foundation in offensive security, enterprise networking, and technical documentation. I enjoy combining hands-on hacking skills with automation and structured methodologies to deliver impactful results.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills  
+- **Programming & Scripting:** Python, Bash  
+- **Security:** Advanced Penetration Testing, Vulnerability Analysis & Mitigation  
+- **Networking:** Enterprise Networking, Firewalls, VPNs, VLANs  
+- **Frameworks & Methodologies:** ENS, NIST, MITRE ATT&CK  
+- **Professional Practices:** Technical Reporting & Documentation  
+
+---
+
+## 🚀 What I Do  
+- **Cybersecurity Consulting & Pentesting** — building resilient infrastructures and automating security processes.  
+- **Homelab Architect** — experimenting with enterprise-grade virtualization, Proxmox, VLANs, and security appliances.  
+- **Industrial Security Explorer** — hands-on with PLCs, OPC UA, IoT, and Raspberry Pi integrations.  
+- **CTF Enthusiast** — passionate about breaking, fixing, and documenting challenges.  
+
+---
+
+## 🎯 Special Interests  
+- **Competitive Powerlifting** — actively training and competing, always chasing new PRs.  
+- **Curiosity-Driven Projects** — from LoRaWAN mesh networks to LaTeX automation, constantly exploring emerging tech.  
+
+---
+
+## 🌍 Languages  
+- **Spanish:** Native  
+- **English:** Intermediate (B1)  
+
+---
