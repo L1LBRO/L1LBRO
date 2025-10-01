@@ -1,6 +1,14 @@
 # 👋 About Me
 
-**Certified Cybersecurity Expert & Ethical Hacker (Zubiri Manteo)** with a solid foundation in offensive security, enterprise networking, and technical documentation. I enjoy combining hands-on hacking skills with automation and structured methodologies to deliver impactful results.
+**Certified Cybersecurity Expert & Ethical Hacker** with a solid foundation in offensive security, enterprise networking, and technical documentation.  
+I enjoy combining hands-on hacking skills with automation and structured methodologies to deliver impactful results.
+
+---
+
+## 🎓 Education  
+- **Técnico en Sistemas Microinformáticos y Redes** — Grado Medio, Zubiri Manteo  
+- **Técnico Superior en Administración de Sistemas Informáticos en Red** — Zubiri Manteo  
+- **Especialización en Ciberseguridad en Entornos de las Tecnologías de la Información** — Zubiri Manteo  
 
 ---
 
